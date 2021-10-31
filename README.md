@@ -1,7 +1,7 @@
 # Python Básico
 Este proyecto fue creado usando los conocimientos adquiridos en el Curso Básico de Python en Platzi por el profesor Facundo García Martoni 🐍. 
 
-La finalidad de este NFT es recaudar fondos para renovar mi suscripción dentro de Platzi 💚. 
+La finalidad de este proyecto es recaudar fondos para renovar mi suscripción dentro de Platzi 💚. 
 
 Dentro del proyecto constan programas que permiten:
 
