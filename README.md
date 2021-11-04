@@ -11,3 +11,6 @@ Dentro del proyecto constan programas que permiten:
     4. Jugar a adivina el número 🪄
     5. Generar una nueva contraseña 🔑
     6. Jugar a piedra, papel o tijeras 🪨📃✂️
+
+Este proyecto forma parte de un NFT creado para compartirlo con Platzi.
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/43457336537334265144366395520976777872611466275759318544740340658863574351873/
